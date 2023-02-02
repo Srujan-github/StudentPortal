@@ -11,9 +11,9 @@
 ### DAY-01 Task
 
 - [ ] Plan
-- [x] Delgate
-- [x] reserch
-- [x] database
+- [ ] Delgate
+- [ ] reserch
+- [ ] database
 - [ ] mem task
 - [ ] return 
 - [ ] review
