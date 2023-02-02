@@ -7,7 +7,7 @@
 * Sai srujan
 * pramod
 * vamshi
-* Rajasheker
+* Rajashekar
 ### DAY-01 Task
 
 - [ ] Plan
